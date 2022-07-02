@@ -1,2 +1,2 @@
 pyroute2==0.5.3
-scapy==2.4.0
+scapy==2.4.1
